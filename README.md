@@ -11,18 +11,18 @@ rbenv 1.1.1
 ruby 2.3.5  
 rails 5.0.7  
 
-## 環境構築の流れ
+## 環境構築の流れ
 1. Mac上にVagrantをインストールする 
-2. Vagrantの基本的な使い方  
-3. rbenvの導入  
+2. Vagrantの基本的な使い方  
+3. rbenvの導入  
 4. rubyのインストール  
 5. railsのインストール  
 
 ## 1. Mac上にVagrantをインストールする  
 
-## 2. Vagrantの基本的な使い方
+## 2. Vagrantの基本的な使い方
 
-## 3. rbenvの導入  
+## 3. rbenvの導入  
 
 ## 4. rubyのインストール  
 
